@@ -1,8 +1,12 @@
 {
   "name": "get-random-color-hex",
-  "version": "1.0.3",
-  "description": "Get a random color hex using this package",
+  "version": "1.1.2",
+  "description": "Get a random color hex or color name using this package",
   "main": "index.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/noahalma/get-random-color-hex.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +15,6 @@
     "hex",
     "color"
   ],
-  "author": "Noah",
+  "author": "NoahAlma",
   "license": "ISC"
 }
