@@ -1,0 +1,16 @@
+{
+  "name": "get-random-color-hex",
+  "version": "1.0.3",
+  "description": "Get a random color hex using this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "hex",
+    "color"
+  ],
+  "author": "Noah",
+  "license": "ISC"
+}
